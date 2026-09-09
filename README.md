@@ -93,8 +93,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ArmanSinha7&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true" alt="Arman's GitHub Stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanSinha7&theme=tokyonight&hide_border=true" alt="Arman's GitHub Streak" />
+<img height="180" src="https://github-stats.tuhidulhossain.com/api/stats?username=ArmanSinha7&show_icons=true" alt="Arman's GitHub Stats" />
+<img height="180" src="https://github-stats.tuhidulhossain.com/api/streak?username=ArmanSinha7" alt="Arman's GitHub Streak" />
 
 <br><br>
 
@@ -102,7 +102,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanSinha7&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Arman's top languages" />
+<img src="https://github-stats.tuhidulhossain.com/api/top-langs?username=ArmanSinha7" alt="Arman's top languages" />
 
 </div>
 
