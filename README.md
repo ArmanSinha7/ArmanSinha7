@@ -35,10 +35,10 @@
 
 ---
 
-## 🎧 Coding Mode
+## 🎮 Coding Mode
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ArmanSinha7/ArmanSinha7/main/assets/equalizer.svg" width="760" alt="Animated audio equalizer" />
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="760" alt="Animated Mario coding GIF" />
   <br />
   <sub>🎵 Code • Learn • Repeat</sub>
 </div>
@@ -48,10 +48,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArmanSinha7&theme=github_dark" width="49%" alt="Arman's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArmanSinha7&theme=github_dark" width="49%" alt="Arman's Repository Languages" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmanSinha7&theme=github_dark" width="98%" alt="Arman's GitHub Activity" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ArmanSinha7&theme=tokyonight&hide_border=true" width="49%" alt="Arman's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArmanSinha7&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Arman's Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/streak?username=ArmanSinha7&theme=tokyonight&hide_border=true" width="49%" alt="Arman's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmanSinha7&theme=github_dark" width="49%" alt="Arman's GitHub Activity" />
 </div>
 
 ---
