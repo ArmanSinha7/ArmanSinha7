@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Arman
-### I'm a college student trying to be consistent and become better every day.
+### Just trying to be consistent and become better every day.
 
 <p>
   <a href="https://in.linkedin.com/in/arman-sinha-7ab233365"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
