@@ -48,12 +48,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-stats.tuhidulhossain.com/api/stats?username=ArmanSinha7&show_icons=true" alt="Arman's GitHub Stats" />
-  <img height="180" src="https://github-stats.tuhidulhossain.com/api/streak?username=ArmanSinha7" alt="Arman's GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ArmanSinha7&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Arman's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ArmanSinha7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" alt="Arman's Top Languages" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanSinha7&bg_color=0d1117&color=00f7ff&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Arman's%20Coding%20Activity&radius=10" width="94%" alt="Arman's GitHub activity graph" />
-  <br><br>
-  <img src="https://github-stats.tuhidulhossain.com/api/top-langs?username=ArmanSinha7" alt="Arman's top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ArmanSinha7&custom_title=Arman's%20GitHub%20Activity&theme=github_dark&hide_border=true" width="70%" alt="Arman's GitHub Activity" />
 </div>
 
 ---
