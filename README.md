@@ -30,6 +30,14 @@
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanSinha7&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true&custom_title=Arman's%20Contribution%20Graph" width="95%" alt="Arman's GitHub contribution graph" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -48,8 +56,8 @@
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <a href="https://leetcode.com/u/ArmanSinha7/">
-    <img src="https://leetcard.jacoblin.cool/ArmanSinha7?theme=dark&extension=activity" alt="Arman's LeetCode Stats" />
+  <a href="https://leetcode.com/u/v6GSmwxzi3/">
+    <img src="https://leetcard.jacoblin.cool/v6GSmwxzi3?theme=dark&ext=activity&animation=true&border=0&radius=12" alt="Arman's LeetCode Stats" />
   </a>
 </div>
 
