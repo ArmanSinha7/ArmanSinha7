@@ -1,66 +1,62 @@
 <div align="center">
 
-# Hey! I'm Kairo �
+# Hi, I'm Arman 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI%2FML+Enthusiast;DSA+%7C+System+Design;Building+my+way+into+the+AI+era+%F0%9F%9A%80" />
+### I'm a college student trying to be consistent and become better every day.
+
+<a href="https://in.linkedin.com/in/arman-sinha-7ab233365">
+  <img src="https://img.shields.io/badge/LinkedIn-Arman%20Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:ayush050709@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ayush050709%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
 
-## � About Me
+## 🛠️ Tech Stack
 
-- � Computer Science Engineering Student
-- � Interested in Artificial Intelligence & Machine Learning
-- � Learning Data Structures & Algorithms
-- �️ Exploring System Design
-- � Building projects and learning every day
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,r,git,github,linux,vscode&perline=5" alt="Tech Stack" />
+</div>
 
----
+<br />
 
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,git,github,linux,vscode" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jposada202020/CircuitPython_equalizer/main/docs/equalizer.gif" width="500" alt="Animated audio equalizer" />
+</div>
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArmanSinha7&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true" alt="Arman's GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanSinha7&theme=tokyonight&hide_border=true" alt="Arman's GitHub Streak" />
+</div>
 
----
+<br />
 
-## � Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanSinha7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-## � Contribution Snake
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/ArmanSinha7/">
+    <img src="https://leetcard.jacoblin.cool/ArmanSinha7?theme=dark&extension=activity" alt="Arman's LeetCode Stats" />
+  </a>
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+### 🚀 Keep learning. Keep building. Keep improving.
 
 </div>
-
----
-
-## � What I'm Working On
-
-```text
-AI / ML
-████████████████░░░░ 80%
-
-DSA
-██████████████░░░░░░ 70%
-
-System Design
-██████████░░░░░░░░░░ 50%
