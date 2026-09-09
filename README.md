@@ -48,10 +48,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ArmanSinha7&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Arman's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ArmanSinha7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" alt="Arman's Top Languages" />
-  <br><br>
-  <img src="https://github-stats-extended.vercel.app/api?username=ArmanSinha7&custom_title=Arman's%20GitHub%20Activity&theme=github_dark&hide_border=true" width="70%" alt="Arman's GitHub Activity" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ArmanSinha7&show_icons=true&theme=tokyonight&hide_border=true" width="32%" alt="Arman's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/streak?username=ArmanSinha7&theme=tokyonight&hide_border=true" width="32%" alt="Arman's GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ArmanSinha7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="32%" alt="Arman's Top Languages" />
 </div>
 
 ---
