@@ -62,24 +62,6 @@
 
 ---
 
-## 🧩 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/v6GSmwxzi3/">
-  <img src="https://leetcard.jacoblin.cool/v6GSmwxzi3?theme=dark&ext=activity&animation=true&border=0&radius=18" alt="Arman's LeetCode stats" />
-</a>
-
-<br>
-
-<a href="https://leetcode.com/u/v6GSmwxzi3/">
-  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode profile" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 One day better than yesterday.
