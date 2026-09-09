@@ -38,7 +38,7 @@
 ## 🎮 Coding Mode
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="760" alt="Animated Mario coding GIF" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/gifs/mario-coder.gif?raw=true" width="760" alt="Mario coding" />
   <br />
   <sub>🎵 Code • Learn • Repeat</sub>
 </div>
@@ -48,15 +48,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ArmanSinha7&theme=tokyonight&hide_border=true" width="49%" alt="Arman's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArmanSinha7&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Arman's Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/streak?username=ArmanSinha7&theme=tokyonight&hide_border=true" width="49%" alt="Arman's GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmanSinha7&theme=github_dark" width="49%" alt="Arman's GitHub Activity" />
+  <img height="180" src="https://github-stats.tuhidulhossain.com/api/stats?username=ArmanSinha7&show_icons=true" alt="Arman's GitHub Stats" />
+  <img height="180" src="https://github-stats.tuhidulhossain.com/api/streak?username=ArmanSinha7" alt="Arman's GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmanSinha7&bg_color=0d1117&color=00f7ff&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Arman's%20Coding%20Activity&radius=10" width="94%" alt="Arman's GitHub activity graph" />
+  <br><br>
+  <img src="https://github-stats.tuhidulhossain.com/api/top-langs?username=ArmanSinha7" alt="Arman's top languages" />
 </div>
 
 ---
