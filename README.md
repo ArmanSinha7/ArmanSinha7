@@ -19,14 +19,60 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,r,git,github,linux,vscode&perline=5" alt="Arman's tech stack" />
-
-</div>
+### 💻 Languages
 
 <p align="center">
-  <sub>Building my fundamentals in programming, data structures, databases and developer tooling.</sub>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c,r,bash,ts,matlab&perline=5" alt="Programming languages" />
+</p>
+
+### 🌐 Web & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&perline=5" alt="Web technologies" />
+  <br />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&perline=5" alt="Databases" />
+</p>
+
+### 🤖 AI / ML / Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=5" alt="AI ML technologies" />
+  <br />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Seaborn-4C9BAB?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+### 🛠️ Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=5" alt="Developer tools" />
+  <br />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+---
+
+## 🧠 Core Computer Science
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-161B22?style=for-the-badge" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-161B22?style=for-the-badge" alt="Object Oriented Programming" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-161B22?style=for-the-badge" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-161B22?style=for-the-badge" alt="Computer Networks" />
+  <img src="https://img.shields.io/badge/DBMS-161B22?style=for-the-badge" alt="DBMS" />
+  <img src="https://img.shields.io/badge/System%20Design-161B22?style=for-the-badge" alt="System Design" />
 </p>
 
 ---
@@ -56,7 +102,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanSinha7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Arman's top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanSinha7&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Arman's top languages" />
 
 </div>
 
