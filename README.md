@@ -48,9 +48,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanSinha7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="32%" alt="Arman's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ArmanSinha7&show_icons=true&theme=tokyonight&hide_border=true" width="32%" alt="Arman's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=ArmanSinha7&theme=tokyonight&hide_border=true" width="32%" alt="Arman's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmanSinha7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" width="32%" alt="Arman's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ArmanSinha7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="32%" alt="Arman's Top Languages" />
 </div>
 
 ---
