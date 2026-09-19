@@ -55,13 +55,13 @@
 
 ---
 
-## 🧩 Recent DSA Progress
+## 🎮 Coding Mode
 
-Recently added solutions include:
-
-**Digit Frequency Score • Kids With the Greatest Number of Candies • Jewels and Stones • Subtract Product and Sum of Digits • Pow(x, n) • Remove Duplicates from Sorted List • Delete Node in a Linked List • Rotate String • Maximum Distance in Arrays • Mirror Distance of an Integer**
-
-I'm keeping the repo as a running record of my DSA progress.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="760" alt="Mario coding" />
+  <br />
+  <sub>🎵 Code • Learn • Repeat</sub>
+</div>
 
 ---
 
