@@ -1,7 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Arman
-### Just trying to be consistent and become better every day.
+# 👋 Hi, I'm Arman Sinha
+
+### CSE @ VIT Vellore • Building with AI, ML & Data • Grinding DSA
 
 <p>
   <a href="https://in.linkedin.com/in/arman-sinha-7ab233365"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -12,15 +13,24 @@
 
 ---
 
+## 🚀 What I'm Working On
+
+- 🧠 **DSA & LeetCode** — consistently solving problems and building my fundamentals
+- 🤖 **AI / ML / Data Science** — learning, experimenting, and turning concepts into projects
+- 💻 **Software Engineering** — improving C++, Python, Java, Git, APIs and core CS
+- 📚 **Core CS** — DSA, OOP, Operating Systems, Computer Networks and DBMS
+
+> **Tried. Failed. Failed again. Better.**
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c,r,bash,ts,matlab,html,css,mysql,postgres,mongodb,sqlite,redis,tensorflow,pytorch,opencv,git,github,linux,vscode,githubactions&perline=12" alt="Arman's tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,c,r,bash,matlab,html,css,mysql,postgres,mongodb,sqlite,redis,tensorflow,pytorch,opencv,git,github,linux,vscode,githubactions&perline=12" alt="Arman's tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-161B22?style=flat-square" alt="REST API" />
-  <img src="https://img.shields.io/badge/JSON-161B22?style=flat-square&logo=json&logoColor=white" alt="JSON" />
   <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-161B22?style=flat-square" alt="Matplotlib" />
@@ -28,20 +38,38 @@
   <img src="https://img.shields.io/badge/Jupyter-161B22?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Seaborn-161B22?style=flat-square" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/REST%20API-161B22?style=flat-square" alt="REST API" />
 </p>
-
-### 🧠 Core CS
-<p align="center"><sub>DSA • OOP • Operating Systems • Computer Networks • DBMS • System Design</sub></p>
 
 ---
 
-## 🎮 Coding Mode
+## 📌 Featured Repositories
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="760" alt="Mario coding" />
-  <br />
-  <sub>🎵 Code • Learn • Repeat</sub>
-</div>
+| Repository | Focus |
+|---|---|
+| [DSA](https://github.com/ArmanSinha7/DSA) | LeetCode solutions, problem solving & DSA practice |
+| [ML-LEARNING](https://github.com/ArmanSinha7/ML-LEARNING) | Machine Learning experiments and learning |
+| [AI-Photo-enhancer](https://github.com/ArmanSinha7/AI-Photo-enhancer) | AI-based image enhancement |
+| [StudyMind](https://github.com/ArmanSinha7/StudyMind) | Productivity / study-focused project |
+| [VitNav](https://github.com/ArmanSinha7/VitNav) | VIT-focused navigation project |
+
+---
+
+## 🧩 Recent DSA Progress
+
+Recently added solutions include:
+
+**Digit Frequency Score • Kids With the Greatest Number of Candies • Jewels and Stones • Subtract Product and Sum of Digits • Pow(x, n) • Remove Duplicates from Sorted List • Delete Node in a Linked List • Rotate String • Maximum Distance in Arrays • Mirror Distance of an Integer**
+
+I'm keeping the repo as a running record of my DSA progress.
+
+---
+
+## 🎯 Current Direction
+
+**DSA → Strong CS fundamentals → Machine Learning → Deep Learning → GenAI / LLMs → Real-world AI projects**
+
+My goal is to keep building, keep learning, and become genuinely strong at both **software engineering and AI**.
 
 ---
 
@@ -57,6 +85,6 @@
 
 <div align="center">
 
-### 🚀 One day better than yesterday.
+### 🔥 Code. Learn. Build. Repeat.
 
 </div>
