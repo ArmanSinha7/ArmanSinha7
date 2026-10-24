@@ -24,6 +24,10 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&disable_animations=true
           path: profile/streak.svg
+          # Set STREAK_STATS_TOKEN in repository Actions secrets to include
+          # private-repository contribution data; otherwise the action falls back
+          # to the default GitHub Actions token.
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
 
       - name: Commit generated streak card
         run: |
