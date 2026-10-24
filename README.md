@@ -77,7 +77,7 @@ My goal is to keep building, keep learning, and become genuinely strong at both 
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ArmanSinha7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="32%" alt="Arman's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ArmanSinha7&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="32%" alt="Arman's GitHub Streak (IST)" />
+  <img src="./profile/streak.svg" width="32%" alt="Arman's GitHub Streak (IST)" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ArmanSinha7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="32%" alt="Arman's Top Languages" />
 </div>
 
