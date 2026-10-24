@@ -1,4 +1,5 @@
 name: Update GitHub Profile Stats
+# Refreshed on request to regenerate the profile stats cards.
 
 on:
   push:
